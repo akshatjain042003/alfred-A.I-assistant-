@@ -1,0 +1,11 @@
+spotipy==2.24.0
+openai==1.63.2
+pywinauto==0.6.9
+psutil==6.0.0
+appopener==1.7
+SpeechRecognition==3.10.4
+pyttsx3==2.91
+streamlit==1.42.2
+tabulate== 0.9.0
+appopener== 1.7
+inflect==7.5.0
